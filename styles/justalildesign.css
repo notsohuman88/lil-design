@@ -1,0 +1,40 @@
+:root {
+    --primary-color: crimson;
+    --secondary-color: lightpink;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background-color: var(--primary-color);
+}
+
+.header {
+    
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    font-family: arial;
+    font-size: 4rem;
+    font-weight: bold italic;
+    margin: 0;
+    padding: 32px;
+    text-align: center;
+}
+
+.footer {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold italic;
+    font-size: 2rem;
+    text
+
+}
+
